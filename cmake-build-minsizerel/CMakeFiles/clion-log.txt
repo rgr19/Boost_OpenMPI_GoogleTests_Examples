@@ -1,0 +1,13 @@
+/home/egrzrbr/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/191.6707.69/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=MinSizeRel -DCMAKE_C_COMPILER=/usr/bin/gcc-8 -DCMAKE_CXX_COMPILER=/usr/bin/g++-8 -G "CodeBlocks - Unix Makefiles" /home/egrzrbr/W/W.priv/Examples/Boost_OpenMPI_GoogleTests_Examples
+-- Setting build type to 'Release' as none was specified.
+[1;31mCMAKE_BUILD_TYPE=Release[m
+DO_TARGET is set...
+Build EXE: Cpp_Example
+RUNTIME_OUTPUT_DIR = /home/egrzrbr/W/W.priv/Examples/Boost_OpenMPI_GoogleTests_Examples/target/release/bin
+source = /home/egrzrbr/W/W.priv/Examples/Boost_OpenMPI_GoogleTests_Examples/resources
+destination = /home/egrzrbr/W/W.priv/Examples/Boost_OpenMPI_GoogleTests_Examples/target/release/bin/resources
+[1;34mBuild EXE: Cpp_Example[m
+DO_GTEST not set...
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/egrzrbr/W/W.priv/Examples/Boost_OpenMPI_GoogleTests_Examples/cmake-build-minsizerel

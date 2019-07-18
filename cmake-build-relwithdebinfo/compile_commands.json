@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/egrzrbr/W/W.priv/Examples/Boost_OpenMPI_GoogleTests_Examples/cmake-build-relwithdebinfo/src/cpp",
+  "command": "/usr/bin/g++-8    -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/Cpp_Example_BOOST.dir/main.std.stl.NN.layers.vararg.cpp.o -c /home/egrzrbr/W/W.priv/Examples/Boost_OpenMPI_GoogleTests_Examples/src/cpp/main.std.stl.NN.layers.vararg.cpp",
+  "file": "/home/egrzrbr/W/W.priv/Examples/Boost_OpenMPI_GoogleTests_Examples/src/cpp/main.std.stl.NN.layers.vararg.cpp"
+},
+{
+  "directory": "/home/egrzrbr/W/W.priv/Examples/Boost_OpenMPI_GoogleTests_Examples/cmake-build-relwithdebinfo/src/cpp",
+  "command": "/usr/bin/g++-8    -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/Cpp_Example.dir/matrix_operations.cpp.o -c /home/egrzrbr/W/W.priv/Examples/Boost_OpenMPI_GoogleTests_Examples/src/cpp/matrix_operations.cpp",
+  "file": "/home/egrzrbr/W/W.priv/Examples/Boost_OpenMPI_GoogleTests_Examples/src/cpp/matrix_operations.cpp"
+}
+]

@@ -1,0 +1,22 @@
+/home/egrzrbr/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/191.6707.69/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=MinSizeRel -DCMAKE_C_COMPILER=/usr/bin/gcc-8 -DCMAKE_CXX_COMPILER=/usr/bin/g++-8 -G "CodeBlocks - Unix Makefiles" /home/egrzrbr/W/W.priv/Examples/Boost_OpenMPI_GoogleTests_Examples/src/cpp
+-- The C compiler identification is GNU 8.2.0
+-- The CXX compiler identification is GNU 8.2.0
+-- Check for working C compiler: /usr/bin/gcc-8
+-- Check for working C compiler: /usr/bin/gcc-8 -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/g++-8
+-- Check for working CXX compiler: /usr/bin/g++-8 -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+Build EXE: Cpp_Example
+CMake Error at CMakeLists.txt:26 (config_bin_output):
+  Unknown CMake command "config_bin_output".
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/egrzrbr/W/W.priv/Examples/Boost_OpenMPI_GoogleTests_Examples/src/cpp/cmake-build-minsizerel/CMakeFiles/CMakeOutput.log".

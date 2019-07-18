@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/egrzrbr/W/W.priv/Examples/Boost_OpenMPI_GoogleTests_Examples/src/cpp/MUtil.h
+
+/home/egrzrbr/W/W.priv/Examples/Boost_OpenMPI_GoogleTests_Examples/src/cpp/matrix_operations.cpp
+iostream
+-
+string
+-
+vector
+-
+array
+-
+numeric
+-
+MUtil.h
+/home/egrzrbr/W/W.priv/Examples/Boost_OpenMPI_GoogleTests_Examples/src/cpp/MUtil.h
+
